@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dunbar';
+    src: local('Dunbar Low Light'), local('Dunbar-Low-Light'),
+        url('/assets/fonts/DunbarLow-Light/DunbarLow-Light.woff2') format('woff2'),
+        url('/assets/fonts/DunbarLow-Light/DunbarLow-Light.woff') format('woff'),
+        url('/assets/fonts/DunbarLow-Light/DunbarLow-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
